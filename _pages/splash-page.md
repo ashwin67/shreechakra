@@ -7,8 +7,8 @@ header:
   overlay_color: "#111"
   overlay_filter: "0.5"
   overlay_image: /assets/images/temple_cropped.jpg
-  #actions:
-  #  - label: "Download"
+  actions:
+    - label: "Call @ 07306005090 or 04935-210235"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**au.com**](https://ashwinupadhyaya.com)"
 excerpt: "Stay in the highest abode at Thirunelli in the heart of Brahmagiri surrounded by lush green vegetation and spectacular views"
@@ -17,7 +17,7 @@ intro:
 feature_row:
   - image_path: assets/images/elephant.jpg
     alt: "scenes"
-    title: "Scenary"
+    title: "Scenery"
     excerpt: "Irpu water falls, Tholpetty wildlife sanctuary, Nagarahole and many more scenes are just a short drive from here.."
   - image_path: /assets/images/thirunelly_temple_side.jpg
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -27,10 +27,10 @@ feature_row:
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
-  - image_path: /assets/images/noun_amenities_3631229.png
-    alt: "amenities by Eucalyp from the Noun Project"
+  - image_path: /assets/images/amenities.jpg
+    alt: "amenities"
     title: "Amenities"
-    excerpt: "Vegetarian Food court, A/C suites, Non A/C rooms, a dormitory, car parking and many more.."
+    excerpt: "Vegetarian Food court, A/C suites, Non A/C rooms, a dormitory, car parking, Taxi service and much more.."
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
