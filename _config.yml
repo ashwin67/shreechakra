@@ -51,6 +51,6 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-include-cache]
 
-theme: jekyll-theme-cayman
+theme: "mmistakes/minimal-mistakes@4.23.0"
