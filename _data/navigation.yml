@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Test Link"
-    url: https://ashwinupadhyaya.com/
+  - title: "Home"
+    url: /
+  - title: "Contact"
+    url: /contact/
+  # - title: "Test Link"
+  #  url: https://ashwinupadhyaya.com/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
